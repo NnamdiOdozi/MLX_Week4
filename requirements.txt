@@ -17,3 +17,4 @@ rank_bm25
 nbformat
 gensim
 requests
+Pillow
