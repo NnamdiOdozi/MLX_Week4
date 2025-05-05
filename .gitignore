@@ -78,7 +78,7 @@ data/
 !models/.gitkeep
 saved_models/
 text*
-*.txt
+
 # Streamlit
 secrets.toml
 
